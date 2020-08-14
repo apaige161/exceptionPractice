@@ -1,0 +1,13 @@
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\bin\Debug\netcoreapp3.1\tryParse.exe
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\bin\Debug\netcoreapp3.1\tryParse.deps.json
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\bin\Debug\netcoreapp3.1\tryParse.runtimeconfig.json
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\bin\Debug\netcoreapp3.1\tryParse.runtimeconfig.dev.json
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\bin\Debug\netcoreapp3.1\tryParse.dll
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\bin\Debug\netcoreapp3.1\tryParse.pdb
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\obj\Debug\netcoreapp3.1\tryParse.csprojAssemblyReference.cache
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\obj\Debug\netcoreapp3.1\tryParse.AssemblyInfoInputs.cache
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\obj\Debug\netcoreapp3.1\tryParse.AssemblyInfo.cs
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\obj\Debug\netcoreapp3.1\tryParse.csproj.CoreCompileInputs.cache
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\obj\Debug\netcoreapp3.1\tryParse.dll
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\obj\Debug\netcoreapp3.1\tryParse.pdb
+C:\Users\Storm\Documents\repo\dotnetCorePractice\chapt3\tryParse\obj\Debug\netcoreapp3.1\tryParse.genruntimeconfig.cache
